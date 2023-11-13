@@ -1,0 +1,95 @@
+body    {
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-family: Helvetica, sans-serif;
+}
+
+.main-header    {
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+    margin: auto;
+}
+
+.introduction-section p {
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: 300;
+    padding-left: 3.4em;
+    padding-right: 3.4em;
+}
+
+.introduction-section  {
+    padding-left: 2em;
+    padding-right: 1.5em;
+    padding-bottom: 1.5em;
+   
+}
+
+h1  {
+    font-size: 2.9rem;
+    font-weight:lighter;
+    color: rgb(197, 151, 81);
+    border: 1px;
+    background-color:whitesmoke;
+    padding-bottom: 0.8em;
+}
+
+h2  {
+    font-size: 1.6em;
+}
+
+.image  {
+    width: 300px;
+    height: auto;
+}
+
+.ingredients    {
+    border-style: solid;;
+    margin-left: 5.2em;
+    margin-right: 5.2em;
+    border-color: pink;
+    border-radius: 2em;
+    background-color: #F7DDCD;
+ 
+}
+
+.ingredients ul {
+    font-size: 1.1em;
+    list-style: none;
+    text-align: center;
+    padding-left: 2.3em;
+    padding-right: 2.3em;
+    padding-bottom: 1.8em;
+    line-height: 1.8em;
+}
+
+.steps  ol {
+    list-style: none;
+    text-align: center;
+    padding-left: 1.6em;
+    padding-right: 1.6em;
+}
+
+.steps h6   {
+    font-size: 1.2em;
+    text-align: left;
+    line-height: 1.2em;
+    
+}
+
+.steps h2   {
+    padding-top: 1.4em;
+    padding-bottom: 1.2em;
+
+}
+
+.steps li   {
+font-weight: 200;
+text-align: left;
+padding-left: 8.4em;
+padding-right: 8.4em;
+}
+
