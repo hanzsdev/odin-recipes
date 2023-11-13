@@ -17,14 +17,15 @@ body    {
     font-size: 1.2em;
     text-align: center;
     font-weight: 300;
-    padding-left: 3.4em;
-    padding-right: 3.4em;
+    padding-left: 8em;
+    padding-right: 8em;
+    line-height: 1.4;
 }
 
 .introduction-section  {
     padding-left: 2em;
     padding-right: 1.5em;
-    padding-bottom: 1.5em;
+    padding-bottom: 2.5em;
    
 }
 
@@ -50,9 +51,9 @@ h2  {
     border-style: solid;;
     margin-left: 5.2em;
     margin-right: 5.2em;
-    border-color: pink;
+    border-color: rgba(255, 192, 203, 0.339);
     border-radius: 2em;
-    background-color: #F7DDCD;
+    background-color: #f7ddcda3;
  
 }
 
@@ -63,33 +64,35 @@ h2  {
     padding-left: 2.3em;
     padding-right: 2.3em;
     padding-bottom: 1.8em;
-    line-height: 1.8em;
+    line-height: 2em;
 }
 
 .steps  ol {
     list-style: none;
     text-align: center;
-    padding-left: 1.6em;
-    padding-right: 1.6em;
+    padding-left: 2.6em;
+    padding-right: 2.6em;
 }
 
 .steps h6   {
     font-size: 1.2em;
     text-align: left;
     line-height: 1.2em;
+    margin-bottom: 1em;
     
 }
 
 .steps h2   {
     padding-top: 1.4em;
-    padding-bottom: 1.2em;
-
+    padding-bottom: 1.5em;
 }
 
 .steps li   {
-font-weight: 200;
-text-align: left;
-padding-left: 8.4em;
-padding-right: 8.4em;
+    font-weight: 200;
+    text-align: left;
+    padding-left: 8.4em;
+    padding-right: 8.4em;
+    line-height: 1.4;
+    word-spacing: 0.06em;
 }
 
