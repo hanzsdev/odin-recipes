@@ -99,3 +99,22 @@ h2  {
 /* Index below */
 
 
+.index-nav  {
+    background-color: whitesmoke;
+    border: 1px solid black;
+    width: 800px;
+    margin-left: 350px;
+
+}
+
+.index-nav li   {
+    Display: inline-block;
+    margin: 10px;
+}
+
+.index-nav a    {
+    background-color: #f7ddcda3;
+    padding: .8em;
+    text-decoration: none;
+}
+
