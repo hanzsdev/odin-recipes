@@ -98,12 +98,15 @@ h2  {
 
 /* Index below */
 
+.index-body {
+    display: block;
+}
 
 .index-nav  {
     background-color: whitesmoke;
     border: 1px solid black;
     width: 800px;
-    margin-left: 350px;
+    margin: auto;
 
 }
 
@@ -116,5 +119,10 @@ h2  {
     background-color: #f7ddcda3;
     padding: .8em;
     text-decoration: none;
+    color: black;
+}
+
+.index-nav a:hover {
+    color: white;
 }
 
